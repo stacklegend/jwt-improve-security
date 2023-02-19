@@ -1,7 +1,7 @@
 {
   "name": "jwt-improve-security",
   "version": "1.0.0",
-  "description": "Demonstration how to imporve security for JSON Web Tokens",
+  "description": "Example how to imporve security for JSON Web Tokens",
   "main": "server.js",
   "author": "Stack Legend <contacts@stacklegend.com>",
   "license": "MIT",
