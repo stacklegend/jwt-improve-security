@@ -1,0 +1,17 @@
+{
+  "name": "jwt-improve-security",
+  "version": "1.0.0",
+  "description": "Demonstration how to imporve security for JSON Web Tokens",
+  "main": "server.js",
+  "author": "Stack Legend <contacts@stacklegend.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0"
+  }
+}
